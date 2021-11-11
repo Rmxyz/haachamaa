@@ -1,7 +1,7 @@
 {
-  "name": "haachamaa",
+  "name": "Bootxyz",
   "version": "2.5.1",
-  "description": "Uwuwuwlululuu",
+  "description": "Simple bot",
   "main": "haachamaa.js",
   "directories": {
     "lib": "lib",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/unx21/haachamaa.git"
+    "url": "git+https://github.com/Rmxyz/haachamaa.git"
   },
   "keywords": [
     "whatsapp-bot"
@@ -22,9 +22,9 @@
   "author": "Unx",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/unx21/haachamaa/issues"
+    "url": "https://github.com/Rmxyz/haachamaa/issues"
   },
-  "homepage": "https://github.com/unx21/haachamaa",
+  "homepage": "https://github.com/Rmxyz/haachamaa",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "awesome-phonenumber": "^2.54.0",
