@@ -1,1 +1,1 @@
-web: node haachamaa
+web: node . --server
