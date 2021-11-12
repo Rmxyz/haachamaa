@@ -10,20 +10,20 @@ const defaultMenu = {
 ┊
 ║ ┅ ๑————————————๑
 ║┊
-║┊   _*⌲ OWNER NYA NGESIMP 赤井はあと*_
+║┊   
 ║┊
 ║┊ ⌬ *Name:* %name
 ║┊
-║┊ ⌬ *Hari:* %week %weton
+║┊ ⌬ *Hari:* %week
 ║┊ ⌬ *Tanggal:* %date
 ║┊ ⌬ *Tanggal Islam:* %dateIslamic
 ║┊ ⌬ *Waktu:* %time WITA
 ║┊
 ║┊ ⌬ *Uptime:* _%uptime_ (%muptime)
 ║┊ ⌬ *Database:* %rtotalreg of %totalreg
-║┊ ⌬ *Owner:* _https://bit.ly/unxzx_
-║┊ ⌬ *Join Heree:*
-║┊ https://chat.whatsapp.com/Ij7zZoDTDgHAi9TTfzu0ay
+║┊ ⌬ *Owner:* _wa.me/6289638023602_
+║┊ ⌬ *Donasi:* 089638023602
+║┊ 
 ╰═ ┅ ═══════
 %readmore
 ╭═══ *〘 Thanks To 〙*
@@ -155,7 +155,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
       message: { 
         "imageMessage": { 
           "mimetype": "image/jpeg", 
-          "caption": `${conn.user.name} SIMP NYA OWNER`, 
+          "caption": `${conn.user.name} OWNER`, 
           "jpegThumbnail": tnbot
         } 
       }
